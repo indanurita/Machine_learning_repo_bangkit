@@ -1,7 +1,3 @@
-The provided Python script appears to be a machine learning application that leverages TF-IDF, SVD, and FAISS for job recommendation based on input skills. Below is a Markdown documentation based on the content of the script.
-
----
-
 # Job Recommendation System
 
 This project implements a job recommendation system using TF-IDF for text vectorization, SVD for dimensionality reduction, and FAISS for efficient similarity search. The system suggests job titles based on input skills.
